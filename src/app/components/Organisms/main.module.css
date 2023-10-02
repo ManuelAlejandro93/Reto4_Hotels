@@ -1,0 +1,16 @@
+.main {
+  position: relative;
+  top: 500px;
+  width: 100%;
+  display: flex;
+  row-gap: 70px;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  margin-top: 0px;
+  /* background-image: url("https://muralsyourway.vtexassets.com/arquivos/ids/240510/Sunset-on-the-WI-River-Mural-Wallpaper.jpg?v=638164528532830000");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center; */
+  
+}
